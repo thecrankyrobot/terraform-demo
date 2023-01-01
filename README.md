@@ -1,2 +1,2 @@
 # terraform-demo
-AWS Infrastructure as Code demo using Terraform
+An AWS Infrastructure as Code demo using Terraform
